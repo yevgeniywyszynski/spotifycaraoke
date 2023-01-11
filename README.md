@@ -6,10 +6,11 @@ git clone https://github.com/yevgeniywyszynski/spotifycaraoke.git
 2. Server configuration <br>
 git clone https://github.com/yevgeniywyszynski/spotifycaraoke-server.git
 
-# npm install 
-# Runs the app in the development mode npm run start
-# Runs the server folder npm run devStart
-
+<div background-color="#F6F8FA">
+npm install 
+Runs the app in the development mode npm run start
+Runs the server folder npm run devStart
+</div>
 
 Remember, the player will only work if you have purchased the Premium Spotify package
 
